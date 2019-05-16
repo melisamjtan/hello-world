@@ -7,4 +7,5 @@ Dear Humans,
 Live in the moment!
 
 Cheers,
+
 Just Another Human
